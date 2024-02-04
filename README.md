@@ -1,4 +1,4 @@
-# [Your Name]
+# Devyani Mahajan
 
 👋 Hello there! I'm Devyani Mahajan,Assistant System Engineeer at Tata consultancy services.
 
@@ -14,7 +14,6 @@ A brief description of who you are, your background, and what you're passionate 
 ## Top Languages
 
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devyani-Mahajan)
-
 
 
 
